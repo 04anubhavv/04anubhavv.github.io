@@ -9,19 +9,5 @@
         "name": "Anubhav Kushwaha"
     },
     "items": [
-        {
-            "id": "https://k4anubhav.me/hi.html",
-            "url": "https://k4anubhav.me/hi.html",
-            "title": "hi",
-            "summary": "just a test",
-            "content_html": "<p>just a test</p>",
-            "author": {
-                "name": "Anubhav Kushwaha"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-08-04T23:59:20+05:30",
-            "date_modified": "2020-08-04T23:59:20+05:30"
-        }
     ]
 }

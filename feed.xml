@@ -9,24 +9,4 @@
     </author>
     <id>https://k4anubhav.me</id>
 
-    <entry>
-        <title>hi</title>
-        <author>
-            <name>Anubhav Kushwaha</name>
-        </author>
-        <link href="https://k4anubhav.me/hi.html"/>
-        <id>https://k4anubhav.me/hi.html</id>
-
-        <updated>2020-08-04T23:59:20+05:30</updated>
-            <summary>
-                <![CDATA[
-                    just a test
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>just a test</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
