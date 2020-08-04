@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Anubhav</title>
-    <link href="https://04anubhavv.github.io/feed.xml" rel="self" />
-    <link href="https://04anubhavv.github.io" />
+    <link href="https://k4anubhav.me/feed.xml" rel="self" />
+    <link href="https://k4anubhav.me" />
     <updated>1970-01-01T05:30:00+05:30</updated>
     <author>
         <name>Anubhav Kushwaha</name>
     </author>
-    <id>https://04anubhavv.github.io</id>
+    <id>https://k4anubhav.me</id>
 
     <entry>
         <title>hi</title>
         <author>
             <name>Anubhav Kushwaha</name>
         </author>
-        <link href="https://04anubhavv.github.io/hi.html"/>
-        <id>https://04anubhavv.github.io/hi.html</id>
+        <link href="https://k4anubhav.me/hi.html"/>
+        <id>https://k4anubhav.me/hi.html</id>
 
-        <updated>2020-08-04T23:54:04+05:30</updated>
+        <updated>2020-08-04T23:59:20+05:30</updated>
             <summary>
                 <![CDATA[
                     just a test

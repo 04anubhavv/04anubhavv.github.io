@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Anubhav",
     "description": "",
-    "home_page_url": "https://04anubhavv.github.io",
-    "feed_url": "https://04anubhavv.github.io/feed.json",
+    "home_page_url": "https://k4anubhav.me",
+    "feed_url": "https://k4anubhav.me/feed.json",
     "user_comment": "",
     "author": {
         "name": "Anubhav Kushwaha"
     },
     "items": [
         {
-            "id": "https://04anubhavv.github.io/hi.html",
-            "url": "https://04anubhavv.github.io/hi.html",
+            "id": "https://k4anubhav.me/hi.html",
+            "url": "https://k4anubhav.me/hi.html",
             "title": "hi",
             "summary": "just a test",
             "content_html": "<p>just a test</p>",
@@ -20,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-04T23:54:04+05:30",
-            "date_modified": "2020-08-04T23:54:04+05:30"
+            "date_published": "2020-08-04T23:59:20+05:30",
+            "date_modified": "2020-08-04T23:59:20+05:30"
         }
     ]
 }
