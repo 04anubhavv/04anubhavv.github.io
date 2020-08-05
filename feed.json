@@ -19,8 +19,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T21:48:51+05:30",
-            "date_modified": "2020-08-05T21:48:51+05:30"
+            "date_published": "2020-08-05T22:33:36+05:30",
+            "date_modified": "2020-08-05T22:33:36+05:30"
         },
         {
             "id": "https://k4anubhav.me/gallery/",
@@ -31,20 +31,21 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T21:48:51+05:30",
-            "date_modified": "2020-08-05T21:48:51+05:30"
+            "date_published": "2020-08-05T22:33:36+05:30",
+            "date_modified": "2020-08-05T22:33:36+05:30"
         },
         {
             "id": "https://k4anubhav.me/contact/",
             "url": "https://k4anubhav.me/contact/",
             "title": "Contact",
+            "content_html": "<h3 class=\"align-center\">Find Me On These Platforms 😏 Fell Free To Talk</h3>\n<h2><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://k4anubhav.me/media/posts/3/001-youtube-3.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://k4anubhav.me/media/posts/3/responsive/001-youtube-3-xs.png 300w ,https://k4anubhav.me/media/posts/3/responsive/001-youtube-3-sm.png 480w ,https://k4anubhav.me/media/posts/3/responsive/001-youtube-3-md.png 768w ,https://k4anubhav.me/media/posts/3/responsive/001-youtube-3-lg.png 1024w ,https://k4anubhav.me/media/posts/3/responsive/001-youtube-3-xl.png 1360w ,https://k4anubhav.me/media/posts/3/responsive/001-youtube-3-2xl.png 1600w\"  alt=\"\" width=\"70\" height=\"70\"></figure>    <span style=\"color: #3598db;\"><a href=\"https://www.youtube.com/channel/UCSnZkICxPvBvgspud9Khfkw\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #3598db;\">Youtube</a></span></h2>\n<h2><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://k4anubhav.me/media/posts/3/029-instagram-2.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://k4anubhav.me/media/posts/3/responsive/029-instagram-2-xs.png 300w ,https://k4anubhav.me/media/posts/3/responsive/029-instagram-2-sm.png 480w ,https://k4anubhav.me/media/posts/3/responsive/029-instagram-2-md.png 768w ,https://k4anubhav.me/media/posts/3/responsive/029-instagram-2-lg.png 1024w ,https://k4anubhav.me/media/posts/3/responsive/029-instagram-2-xl.png 1360w ,https://k4anubhav.me/media/posts/3/responsive/029-instagram-2-2xl.png 1600w\"  alt=\"\" width=\"70\" height=\"70\"></figure>    <span style=\"color: #3598db;\"><a href=\"https://www.instagram.com/k4anubhav/\" style=\"color: #3598db;\">Instagram</a></span></h2>\n<h2><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://k4anubhav.me/media/posts/3/telegram.svg\" alt=\"\" width=\"70\" height=\"70\"></figure>    <span style=\"color: #3598db;\"><a href=\"https://t.me/k4anubhav\" style=\"color: #3598db;\">Telegram</a></span></h2>",
             "author": {
                 "name": "Anubhav Kushwaha"
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T21:48:51+05:30",
-            "date_modified": "2020-08-05T21:48:51+05:30"
+            "date_published": "2020-08-05T22:33:36+05:30",
+            "date_modified": "2020-08-05T22:33:36+05:30"
         },
         {
             "id": "https://k4anubhav.me/about-me/",
@@ -55,8 +56,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T21:48:51+05:30",
-            "date_modified": "2020-08-05T21:48:51+05:30"
+            "date_published": "2020-08-05T22:33:36+05:30",
+            "date_modified": "2020-08-05T22:33:36+05:30"
         }
     ]
 }
