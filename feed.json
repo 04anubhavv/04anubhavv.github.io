@@ -14,14 +14,14 @@
             "id": "https://k4anubhav.me/skills/",
             "url": "https://k4anubhav.me/skills/",
             "title": "Skills",
-            "content_html": "<h2>Photography - Noob😅</h2>\n<h2>Video Editing - Noob😔</h2>\n<h2 class=\"align-center\"><span style=\"color: #e03e2d;\">But</span> Wait, I am gonna <span style=\"text-decoration: underline;\"><span style=\"color: #e03e2d; text-decoration: underline;\">add much more</span></span> here just wait</h2>",
+            "content_html": "<h3 class=\"align-center\">Photography - Noob😅</h3>\n<h3 class=\"align-center\">Video Editing - Noob😔</h3>\n<p> </p>\n<p> </p>\n<h4 class=\"align-center\"><span style=\"color: #e03e2d;\">But</span> Wait, I am gonna <span style=\"text-decoration: underline;\"><span style=\"color: #e03e2d; text-decoration: underline;\">add much more</span></span> here just wait</h4>",
             "author": {
                 "name": "Anubhav Kushwaha"
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T22:40:22+05:30",
-            "date_modified": "2020-08-05T22:40:22+05:30"
+            "date_published": "2020-08-05T22:41:14+05:30",
+            "date_modified": "2020-08-05T22:41:14+05:30"
         },
         {
             "id": "https://k4anubhav.me/gallery/",
@@ -32,8 +32,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T22:40:22+05:30",
-            "date_modified": "2020-08-05T22:40:22+05:30"
+            "date_published": "2020-08-05T22:41:14+05:30",
+            "date_modified": "2020-08-05T22:41:14+05:30"
         },
         {
             "id": "https://k4anubhav.me/contact/",
@@ -45,8 +45,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T22:40:22+05:30",
-            "date_modified": "2020-08-05T22:40:22+05:30"
+            "date_published": "2020-08-05T22:41:14+05:30",
+            "date_modified": "2020-08-05T22:41:14+05:30"
         },
         {
             "id": "https://k4anubhav.me/about-me/",
@@ -57,8 +57,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T22:40:22+05:30",
-            "date_modified": "2020-08-05T22:40:22+05:30"
+            "date_published": "2020-08-05T22:41:14+05:30",
+            "date_modified": "2020-08-05T22:41:14+05:30"
         }
     ]
 }
