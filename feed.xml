@@ -10,6 +10,27 @@
     <id>https://k4anubhav.me</id>
 
     <entry>
+        <title>Hi, Its Me Anubhav Kushwaha </title>
+        <author>
+            <name>Anubhav Kushwaha</name>
+        </author>
+        <link href="https://k4anubhav.me/hi-its-me-anubhav-kushwaha/"/>
+        <id>https://k4anubhav.me/hi-its-me-anubhav-kushwaha/</id>
+
+        <updated>2020-08-06T00:04:35+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h4 class="align-center">My name is<em> <span style="text-decoration: underline;">Anubhav Kushwaha.</span></em><figure class="post__image"><img loading="lazy"  src="https://k4anubhav.me/media/posts/7/4x.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://k4anubhav.me/media/posts/7/responsive/4x-xs.png 300w ,https://k4anubhav.me/media/posts/7/responsive/4x-sm.png 480w ,https://k4anubhav.me/media/posts/7/responsive/4x-md.png 768w ,https://k4anubhav.me/media/posts/7/responsive/4x-lg.png 1024w ,https://k4anubhav.me/media/posts/7/responsive/4x-xl.png 1360w ,https://k4anubhav.me/media/posts/7/responsive/4x-2xl.png 1600w"  alt="" width="436" height="436"></figure></h4>
+<blockquote>
+<p><em style="color: var(--headings-color); font-family: var(--font-base); font-size: calc(1.125em + 0.14063 * ((100vw - 49rem) / 51)); font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;">Humans see what they want to see.</em></p>
+<p> ― Rick Riordan</p>
+</blockquote>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Skills</title>
         <author>
             <name>Anubhav Kushwaha</name>
@@ -17,7 +38,7 @@
         <link href="https://k4anubhav.me/skills/"/>
         <id>https://k4anubhav.me/skills/</id>
 
-        <updated>2020-08-05T23:02:24+05:30</updated>
+        <updated>2020-08-06T00:04:35+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -37,7 +58,7 @@
         <link href="https://k4anubhav.me/gallery/"/>
         <id>https://k4anubhav.me/gallery/</id>
 
-        <updated>2020-08-05T23:02:24+05:30</updated>
+        <updated>2020-08-06T00:04:35+05:30</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -49,7 +70,7 @@
         <link href="https://k4anubhav.me/contact/"/>
         <id>https://k4anubhav.me/contact/</id>
 
-        <updated>2020-08-05T23:02:24+05:30</updated>
+        <updated>2020-08-06T00:04:35+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -68,7 +89,7 @@
         <link href="https://k4anubhav.me/about-me/"/>
         <id>https://k4anubhav.me/about-me/</id>
 
-        <updated>2020-08-05T23:02:24+05:30</updated>
+        <updated>2020-08-06T00:04:35+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
