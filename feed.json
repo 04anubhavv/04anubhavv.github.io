@@ -10,5 +10,53 @@
         "name": "Anubhav Kushwaha"
     },
     "items": [
+        {
+            "id": "https://k4anubhav.me/skills/",
+            "url": "https://k4anubhav.me/skills/",
+            "title": "Skills",
+            "author": {
+                "name": "Anubhav Kushwaha"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-05T21:21:36+05:30",
+            "date_modified": "2020-08-05T21:21:36+05:30"
+        },
+        {
+            "id": "https://k4anubhav.me/gallery/",
+            "url": "https://k4anubhav.me/gallery/",
+            "title": "Gallery",
+            "author": {
+                "name": "Anubhav Kushwaha"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-05T21:21:36+05:30",
+            "date_modified": "2020-08-05T21:21:36+05:30"
+        },
+        {
+            "id": "https://k4anubhav.me/contact/",
+            "url": "https://k4anubhav.me/contact/",
+            "title": "Contact",
+            "author": {
+                "name": "Anubhav Kushwaha"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-05T21:21:36+05:30",
+            "date_modified": "2020-08-05T21:21:36+05:30"
+        },
+        {
+            "id": "https://k4anubhav.me/about-me/",
+            "url": "https://k4anubhav.me/about-me/",
+            "title": "About Me",
+            "author": {
+                "name": "Anubhav Kushwaha"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-05T21:21:36+05:30",
+            "date_modified": "2020-08-05T21:21:36+05:30"
+        }
     ]
 }

@@ -9,4 +9,52 @@
     </author>
     <id>https://k4anubhav.me</id>
 
+    <entry>
+        <title>Skills</title>
+        <author>
+            <name>Anubhav Kushwaha</name>
+        </author>
+        <link href="https://k4anubhav.me/skills/"/>
+        <id>https://k4anubhav.me/skills/</id>
+
+        <updated>2020-08-05T21:21:36+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Gallery</title>
+        <author>
+            <name>Anubhav Kushwaha</name>
+        </author>
+        <link href="https://k4anubhav.me/gallery/"/>
+        <id>https://k4anubhav.me/gallery/</id>
+
+        <updated>2020-08-05T21:21:36+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Anubhav Kushwaha</name>
+        </author>
+        <link href="https://k4anubhav.me/contact/"/>
+        <id>https://k4anubhav.me/contact/</id>
+
+        <updated>2020-08-05T21:21:36+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Anubhav Kushwaha</name>
+        </author>
+        <link href="https://k4anubhav.me/about-me/"/>
+        <id>https://k4anubhav.me/about-me/</id>
+
+        <updated>2020-08-05T21:21:36+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
