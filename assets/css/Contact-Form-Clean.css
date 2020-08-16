@@ -88,3 +88,22 @@
   color: #fff;
 }
 
+@media (max-width: 410px) {
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    font-size: 33px;
+  }
+}
+
+@media (max-width: 400px) {
+  .content-section-heading h2 {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 420px) {
+  .text-uppercase {
+    font-size: 30px;
+  }
+}
+
