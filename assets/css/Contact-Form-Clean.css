@@ -107,3 +107,29 @@
   }
 }
 
+@media (min-width: 576px) {
+  t1 {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 390px) {
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 650;
+    font-size: 30px;
+  }
+}
+
+.t1 {
+  font-size: 28px;
+}
+
+@media (max-width: 470px) {
+  .t2 {
+    font-size: 41px;
+  }
+}
+
+.t2 {
+}
+
