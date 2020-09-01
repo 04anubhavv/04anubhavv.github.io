@@ -88,7 +88,7 @@
   color: #fff;
 }
 
-@media (max-width: 410px) {
+@media (min-width: 410px) {
   h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
     font-size: 33px;
@@ -107,29 +107,51 @@
   }
 }
 
-@media (min-width: 576px) {
-  t1 {
-    font-size: 40px;
-  }
-}
-
-@media (max-width: 390px) {
-  h1, h2, h3, h4, h5, h6 {
-    font-weight: 650;
+@media (max-width: 420px) {
+  .r1 {
     font-size: 30px;
   }
 }
 
-.t1 {
-  font-size: 28px;
-}
-
-@media (max-width: 470px) {
-  .t2 {
-    font-size: 41px;
+@media (max-width: 390px) {
+  .r2 {
+    font-size: 28px;
+    font-style: italic;
   }
 }
 
-.t2 {
+@media (max-width: 417px) {
+  .r3 {
+    font-size: 40px;
+    font-weight: 700;
+  }
+}
+
+r9 {
+  font-size: 0px;
+}
+
+@media (max-width: 400px) {
+  .portfolio-item .caption .caption-content p {
+    font-size: 0px;
+  }
+}
+
+@media (max-width: 400px) {
+  .portfolio-item .caption .caption-content p {
+    font-size: 0px;
+  }
+}
+
+@media (max-width: 400px) {
+  .portfolio-item .caption .caption-content p {
+    font-size: 0px;
+  }
+}
+
+@media (max-width: 400px) {
+  .portfolio-item .caption .caption-content p {
+    font-size: 0px;
+  }
 }
 
