@@ -16,7 +16,7 @@
 
 .getintouch {
   height: auto;
-  background-image: url("../../assets/img/Get%20In%20touch/GetInTouch.png");
+  background-image: url("/assets/img/Get%20In%20touch/GetInTouch.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
