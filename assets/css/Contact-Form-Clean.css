@@ -107,3 +107,15 @@
   }
 }
 
+@media (max-width: 440px) {
+  .portfolio-item .caption .caption-content p {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 440px) {
+  .portfolio-item .caption .caption-content p t1 {
+    font-size: 15px;
+  }
+}
+
