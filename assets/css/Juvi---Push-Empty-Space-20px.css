@@ -1,5 +1,17 @@
 .Push-20 {
-  height: 20px;
+  height: 40px;
+  display: block;
+  clear: both;
+}
+
+.Push-202 {
+  height: 10px;
+  display: block;
+  clear: both;
+}
+
+.Push-20 def {
+  height: 40px;
   display: block;
   clear: both;
 }
