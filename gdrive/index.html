@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/Juvi---Push-Empty-Space-20px.css">
     <link rel="stylesheet" href="/assets/css/styles.css">
-<script src="stick.js"></script>
 </head>
 
 <body class="d-flex flex-column justify-content-center align-items-center" style="height: 100vh;">
@@ -23,7 +22,17 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/js/bootstrap.bundle.min.js"></script>
-    <script src="/assets/js/stick.js"></script>
+    <!-- <script src="/assets/js/stick.js"></script> -->
+    <script>
+    var w = window.innerWidth;
+    var h = window.innerHeight;
+    if(w < 680 || h < 458){
+        document.getElementById("stickcol").innerHTML +=  '<div><iframe src="https://drive.google.com/file/d/10HKOybDTrDDfuhGBuvFLqs7v1_Qe4V0c/preview" width="480" height="338"></iframe></div>'
+    }
+    else{
+        document.getElementById("stickcol").innerHTML +=  '<div><iframe src="https://drive.google.com/file/d/10HKOybDTrDDfuhGBuvFLqs7v1_Qe4V0c/preview" width="640" height="480"></iframe></div>'
+    }
+</script>
 </body>
 
 </html>
